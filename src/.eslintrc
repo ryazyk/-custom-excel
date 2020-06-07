@@ -12,7 +12,9 @@
   "rules": {
     "indent": "off",
     "comma-dangle": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "max-len": "off",
+    "no-unused-vars": "off"
   }
 }
 
